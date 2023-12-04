@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #1F2833;
+    color: black;
+    text-align: center;
+}
+
+header {
+    background-color: cornsilk;
+    height: 70px;
+}
+
+footer {
+    background-color: wheat;
+    height: 50px;
+}
+
+table {
+    margin: 50px auto;
+}
+
+/* Celstijlen */
+td,
+th {
+    width: 125px;
+    height: 125px;
+}
+
+/* Stijlen van kolom één */
+#fruit {
+    background-color: #ff0000ff;
+}
+
+#kers {
+    background-color: #ffa500ff;
+}
+
+#appel {
+    background-color: #ffff00ff;
+}
+
+#druiven {
+    background-color: #ebababff;
+}
+
+/* Stijlen van kolom twee */
+#fruit-afbeelding {
+    background-color: #33FF86;
+}
+
+#kers-afbeelding {
+    background-color: #FF33A1;
+}
+
+#appel-afbeelding {
+    background-color: #3333FF;
+}
+
+#druiven-afbeelding {
+    background-color: #cfb985;
+}
+
+
+/* Stijlen van kolom drie */
+#groenten {
+    background-color: #deb887ff;
+}
+
+#radijs {
+    background-color: #eb1bebff;
+}
+
+#bloemkool {
+    background-color: #ffffffff;
+}
+
+#sla {
+    background-color: #33eb33ff;
+}
+
+/* Stijlen van kolom vier */
+#groenten-afbeelding {
+    background-color: #9933FF;
+}
+
+#radijs-afbeelding {
+    background-color: #fff59c;
+}
+
+#bloemkool-afbeelding {
+    background-color: #9ADE7B;
+}
+
+#sla-afbeelding {
+    background-color: #33FFD4;
+}
